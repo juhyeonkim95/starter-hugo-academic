@@ -80,7 +80,7 @@ email: 'juhyeon.kim.gr@dartmouth.edu'
 highlight_name: true
 ---
 
-# Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+<!-- # Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
 I am a first year computer science PhD student at Dartmouth College. 
 My research interest includes physically based rendering, real-time rendering and neural rendering.
 Currently I am conducting a research about ToF rendering.
