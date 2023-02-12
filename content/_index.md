@@ -25,13 +25,13 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: PhD in Computer Science
-            company: Dartmouth College
-            company_url: ''
-            company_logo: dart
-            location: New Hampshire
-            date_start: '2022-09-01'
-            date_end: ''
-            description: Major in Electrical and Computer Engineering
+          company: Dartmouth College
+          company_url: ''
+          company_logo: dart
+          location: New Hampshire
+          date_start: '2022-09-01'
+          date_end: ''
+          description: Major in Electrical and Computer Engineering
         - title: MSc in Electrical and Computer Engineering
           company: Seoul National University
           company_url: ''
