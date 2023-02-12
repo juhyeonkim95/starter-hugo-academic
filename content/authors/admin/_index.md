@@ -26,23 +26,22 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
-  - TEST
+  - Physically-based rendering
+  - Real-time rendering
+  - Neural rendering
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Computer Science
+      institution: Dartmouth College
+      year: Current
+    - course: MSc in Electrical and Computer Engineering
+      institution: Seoul National University
+      year: 2022
+    - course: BSc in College of Liberal Arts (major in electrical and computer engineering)
+      institution: Seoul National University
+      year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -75,11 +74,17 @@ social:
     link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'juhyeon.kim.gr@dartmouth.edu'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+# Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a first year computer science PhD student at Dartmouth College. 
+My research interest includes physically based rendering, real-time rendering and neural rendering.
+Currently I am conducting a research about ToF rendering.
+I received master's degree from Seoul National University [3D vision lab](http://3d.snu.ac.kr/). 
+I also received bachelor's degree from Seoul National University.
+
 {style="text-align: justify;"}
