@@ -40,11 +40,7 @@ sections:
           date_start: '2019-09-01'
           date_end: '2022-02-28'
           description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+              * Thesis : Fast and lightweight Path Guiding Algorithm on GPU
         - title: BSc in College of Liberal Arts
           company: Seoul National University
           company_url: ''
@@ -52,7 +48,9 @@ sections:
           location: Seoul
           date_start: '2014-03-01'
           date_end: '2019-08-31'
-          description: Major in Electrical and Computer Engineering
+          description: |2-
+            * Major in Electrical and Computer Engineering
+            * Thesis : Efficient Taxi Dispatch Strategy using Deep Reinforcement Learning
     design:
       columns: '2'
   - block: portfolio
