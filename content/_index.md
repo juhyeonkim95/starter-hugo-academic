@@ -58,7 +58,7 @@ sections:
       title: Gallery
       subtitle: ''
       text: |-
-        {{< gallery album="demo" >}}
+        {{< gallery album="render" >}}
     design:
       columns: '1'
   - block: collection
