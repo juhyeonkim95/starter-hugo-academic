@@ -37,7 +37,7 @@ featured: false
 #   url: ""
 url_pdf: ''
 url_code: 'https://github.com/juhyeonkim95/Mitsuba3DopplerToF'
-url_code2: 'https://github.com/juhyeonkim95/MitsubaDopplerToF'
+url_codenew: 'https://github.com/juhyeonkim95/MitsubaDopplerToF'
 url_dataset: ''
 url_poster: ''
 url_project: ''
