@@ -39,7 +39,7 @@ url_pdf: ''
 url_code: 'https://github.com/juhyeonkim95/Mitsuba3DopplerToF'
 url_dataset: ''
 url_poster: ''
-url_project: ''
+url_project: 'https://juhyeonkim95.github.io/project-pages/dopplertof'
 url_slides: ''
 url_source: ''
 url_video: ''
@@ -57,7 +57,7 @@ url_video: ''
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  - example
+  - []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
