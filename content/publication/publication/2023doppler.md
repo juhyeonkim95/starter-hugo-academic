@@ -30,12 +30,12 @@ publication_short: ""
 
 # tags:
 # - Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: 'https://arxiv.org/abs/2309.16163'
 url_code: 'https://github.com/juhyeonkim95/Mitsuba3DopplerToF'
 url_dataset: ''
 url_poster: ''
