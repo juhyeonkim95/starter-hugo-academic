@@ -18,7 +18,7 @@ sections:
     content:
       title: News
       subtitle: ''
-      text: news!
+      text: 
     design:
       columns: '1'
   - block: experience
