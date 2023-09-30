@@ -23,7 +23,7 @@ sections:
         * 2023.09. One Pacific Graphics paper get accepted!
         * 2023.05. One SIGGRAPH 2023 paper get accepted!
     design:
-      columns: '1'
+      columns: '2'
   - block: experience
     content:
       title: Education
