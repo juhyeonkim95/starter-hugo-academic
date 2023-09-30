@@ -19,9 +19,9 @@ sections:
       title: News
       subtitle: ''
       text: |-
-        * 2023.09. One SIGGRAPH Asia paper get accepted!
-        * 2023.09. One Pacific Graphics paper get accepted!
-        * 2023.05. One SIGGRAPH paper get accepted!
+        * 2023.09. One SIGGRAPH Asia paper (journal track) get accepted!
+        * 2023.09. One Pacific Graphics paper (full paper) get accepted!
+        * 2023.05. One SIGGRAPH paper (journal track) get accepted!
     design:
       columns: '2'
   - block: experience
