@@ -14,13 +14,6 @@ sections:
       text:
     design:
       columns: '2'
-  - block: markdown
-    content:
-      title: News
-      subtitle: ''
-      text: 
-    design:
-      columns: '1'
   - block: experience
     content:
       title: Education
