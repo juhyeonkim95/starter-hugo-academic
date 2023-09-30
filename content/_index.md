@@ -57,6 +57,14 @@ sections:
       columns: '2'
   - block: markdown
     content:
+      title: News
+      subtitle: ''
+      text: |-
+        * One siggraph paper
+    design:
+      columns: '1'
+  - block: markdown
+    content:
       title: Gallery
       subtitle: ''
       text: |-
