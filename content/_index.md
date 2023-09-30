@@ -14,6 +14,16 @@ sections:
       text:
     design:
       columns: '2'
+  - block: markdown
+    content:
+      title: News
+      subtitle: ''
+      text: |-
+        * 2023.09. One SIGGRAPH Asia 2023 paper get accepted!
+        * 2023.09. One Pacific Graphics paper get accepted!
+        * 2023.05. One SIGGRAPH 2023 paper get accepted!
+    design:
+      columns: '1'
   - block: experience
     content:
       title: Education
@@ -55,14 +65,6 @@ sections:
             * Thesis : Efficient Taxi Dispatch Strategy using Deep Reinforcement Learning
     design:
       columns: '2'
-  - block: markdown
-    content:
-      title: News
-      subtitle: ''
-      text: |-
-        * One siggraph paper
-    design:
-      columns: '1'
   - block: markdown
     content:
       title: Gallery
