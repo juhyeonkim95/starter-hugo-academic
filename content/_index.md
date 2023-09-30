@@ -12,12 +12,15 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:
-    content:
-      title: NEWS
-      subtitle: NEWS
-      text: NEWS
     design:
       columns: '2'
+  - block: markdown
+    content:
+      title: News
+      subtitle: ''
+      text: news!
+    design:
+      columns: '1'
   - block: experience
     content:
       title: Education
