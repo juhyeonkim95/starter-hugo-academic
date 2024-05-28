@@ -19,9 +19,8 @@ sections:
       title: News
       subtitle: ''
       text: |-
-        * 2023.09. One SIGGRAPH Asia paper (journal track) get accepted!
-        * 2023.09. One Pacific Graphics paper (full paper) get accepted!
-        * 2023.05. One SIGGRAPH paper (journal track) get accepted!
+        * 2024.06. I will be working at Intel for summer internship!
+        * 2024.05. One ICCP paper accepted!
     design:
       columns: '2'
   - block: experience
@@ -63,6 +62,27 @@ sections:
           description: |2-
             * Major in Electrical and Computer Engineering
             * Thesis : Efficient Taxi Dispatch Strategy using Deep Reinforcement Learning
+    design:
+      columns: '2'
+  - block: experience
+    content:
+      title: Experience
+      # Date format for experience
+      #   Refer to https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: Summer Intern
+          company: Intel
+          company_url: ''
+          company_logo: dart
+          location: Bellevue, Washington
+          date_start: '2024-06-10'
+          date_end: ''
     design:
       columns: '2'
   - block: markdown
