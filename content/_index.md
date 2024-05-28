@@ -79,7 +79,7 @@ sections:
         - title: Summer Intern
           company: Intel
           company_url: ''
-          company_logo: dart
+          company_logo: intel
           location: Bellevue, Washington
           date_start: '2024-06-10'
           date_end: ''
