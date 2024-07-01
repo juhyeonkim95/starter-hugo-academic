@@ -1,5 +1,5 @@
 ---
-title: "Neural Volumetric Reconstruction for Coherent Synthetic Aperture Sonar"
+title: "Efficient Time Sampling Strategy for Transient Absorption Spectroscopy"
 authors:
 - admin
 - Joshua Multhaup
