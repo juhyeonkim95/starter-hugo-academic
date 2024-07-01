@@ -95,6 +95,16 @@ sections:
       columns: '1'
   - block: collection
     content:
+      title: Featured Publications
+      filters:
+        folders:
+          - publication
+        featured_only: true
+    design:
+      columns: '2'
+      view: cardgif
+  - block: collection
+    content:
       title: Publications
       filters:
         folders:
