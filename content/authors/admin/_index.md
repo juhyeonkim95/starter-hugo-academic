@@ -1,17 +1,16 @@
 ---
 # Display name
-title: -
+title: Under construction
 
 # Full name (for SEO)
-first_name: -
-last_name: -
+first_name: Under construction
+last_name: Under construction
 
 # Status emoji
 status:
-  icon: -
 
 # Is this the primary user of the site?
-superuser: -
+superuser: Under construction
 
 # Role/position/tagline
 role: Under construction
@@ -28,23 +27,15 @@ interests:
   - Under construction
 
 # Education to show in About widget
-# education:
-#   courses:
-#     - course: PhD in Computer Science
-#       institution: Dartmouth College
-#       year: Current
-#     - course: MSc in Electrical and Computer Engineering
-#       institution: Seoul National University
-#       year: 2022
-#     - course: BSc in College of Liberal Arts (major in electrical and computer engineering)
-#       institution: Seoul National University
-#       year: 2019
+education:
+  courses:
+    - course: Under construction
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-# social:
+social:
   # - icon: envelope
   #   icon_pack: fas
   #   link: '/#contact'
@@ -74,18 +65,13 @@ interests:
   #   link: uploads/20230929_cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-# email: 'juhyeon.kim.gr@dartmouth.edu'
+email: Under construction
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
 <!-- # Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
-Under construction!
-<!-- I am a second year computer science PhD student at Dartmouth College. 
-My research interest includes physically based rendering, real-time rendering and neural rendering.
-Currently I am researching ToF rendering.
-I received master's degree from Seoul National University [3D vision lab](http://3d.snu.ac.kr/). 
-I also received bachelor's degree from Seoul National University. -->
+Under construction
 
 {style="text-align: justify;"}
