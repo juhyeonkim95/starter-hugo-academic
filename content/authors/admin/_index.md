@@ -74,7 +74,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/20230929_cv.pdf
+    link: uploads/20241115_cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'juhyeon.kim.gr@dartmouth.edu'
