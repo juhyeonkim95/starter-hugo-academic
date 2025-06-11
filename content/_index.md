@@ -19,6 +19,9 @@ sections:
       title: News
       subtitle: ''
       text: |-
+        * 2025.05. Our paper received SIGGRAPH Honorable mention!
+        * 2025.05. One EGSR paper accepted!
+        * 2025.05. One SIGGRAPH paper accepted!
         * 2024.06. I will be working at Intel for summer internship!
         * 2024.05. One ICCP paper accepted!
     design:

@@ -1,5 +1,5 @@
 ---
-title: "Doppler Time-of-Flight Rendering"
+title: "A Monte Carlo Rendering Framework for Simulating Optical Heterodyne Detection"
 authors:
 - admin
 - Craig Benko
