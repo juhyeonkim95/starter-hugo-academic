@@ -74,7 +74,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/20241115_cv.pdf
+    link: uploads/20250612_cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'juhyeon.kim.gr@dartmouth.edu'
@@ -84,7 +84,7 @@ highlight_name: true
 ---
 
 <!-- # Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
-I am a second year computer science PhD student at Dartmouth College. 
+I am a third year computer science PhD student at Dartmouth College. 
 My research interest includes physically based rendering, real-time rendering and neural rendering.
 Currently I am researching ToF rendering.
 I received master's degree from Seoul National University [3D vision lab](http://3d.snu.ac.kr/). 
