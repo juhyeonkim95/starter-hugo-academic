@@ -19,7 +19,7 @@ sections:
       title: News
       subtitle: ''
       text: |-
-        * 2025.05. Our paper received SIGGRAPH Honorable mention!
+        * 2025.06. Our paper received [SIGGRAPH 🏆Honorable mention!](https://blog.siggraph.org/2025/06/siggraph-2025-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/) 
         * 2025.05. One EGSR paper accepted!
         * 2025.05. One SIGGRAPH paper accepted!
         * 2024.06. I will be working at Intel for summer internship!
