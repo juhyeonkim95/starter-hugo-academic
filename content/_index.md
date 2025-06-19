@@ -19,6 +19,7 @@ sections:
       title: News
       subtitle: ''
       text: |-
+        * 2025.06. I received [Neukom Research Prize](https://neukom.dartmouth.edu/research/neukom-research-prizes/2025-research-prize-winners) (2nd prize)
         * 2025.06. Our [paper](publication/2025ohd) received [SIGGRAPH 🏆Honorable mention](https://blog.siggraph.org/2025/06/siggraph-2025-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/)!
         * 2025.05. One EGSR [paper](publication/2025wave) accepted!
         * 2025.05. One SIGGRAPH [paper](publication/2025ohd) accepted!
