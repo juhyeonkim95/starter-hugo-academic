@@ -89,6 +89,15 @@ sections:
           location: Bellevue, Washington
           date_start: '2024-06-10'
           date_end: '2024-09-10'
+          description: Worked on low-count adaptive sampling
+        - title: Undergraduate Intern
+          company: Kakao Mobility
+          company_url: ''
+          company_logo: kakaomobility
+          location: Pangyo, South Korea
+          date_start: '2018-12-01'
+          date_end: '2019-03-01'
+          description: Worked on taxi dispatch strategy using RL
     design:
       columns: '2'
   - block: markdown
