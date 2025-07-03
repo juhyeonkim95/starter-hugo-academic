@@ -89,15 +89,23 @@ sections:
           location: Bellevue, Washington
           date_start: '2024-06-10'
           date_end: '2024-09-10'
-          description: Worked on low-count adaptive sampling
+          description: Worked on low-count adaptive sampling.
+        - title: Summer Intern
+          company: Pearl Abyss
+          company_url: ''
+          company_logo: pearlabyss
+          location: Gwacheon, South Korea
+          date_start: '2022-06-01'
+          date_end: '2022-08-01'
+          description: Worked on building a [real-time path tracer](https://github.com/juhyeonkim95/DXRPathTracer).
         - title: Undergraduate Intern
           company: Kakao Mobility
           company_url: ''
-          company_logo: kakaomobility
+          company_logo: kakaomobility_v2
           location: Pangyo, South Korea
           date_start: '2018-12-01'
           date_end: '2019-03-01'
-          description: Worked on taxi dispatch strategy using RL
+          description: Worked on [taxi dispatch strategy using RL](projects/2021taxi).
     design:
       columns: '2'
   - block: markdown
