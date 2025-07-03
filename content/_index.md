@@ -101,7 +101,7 @@ sections:
         - title: Undergraduate Intern
           company: Kakao Mobility
           company_url: ''
-          company_logo: kakaomobility_v2
+          company_logo: kakaomobility
           location: Pangyo, South Korea
           date_start: '2018-12-01'
           date_end: '2019-03-01'
