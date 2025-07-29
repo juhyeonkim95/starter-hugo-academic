@@ -38,8 +38,8 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
-url_code: ''
+url_pdf: 'https://juhyeonkim95.github.io/project-pages/ohd_rendering/static/pdfs/OHD_SIGGRAPH_2025.pdf'
+url_code: 'https://github.com/juhyeonkim95/MitsubaOHD'
 url_dataset: ''
 url_poster: ''
 url_project: 'https://juhyeonkim95.github.io/project-pages/ohd_rendering'
