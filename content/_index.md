@@ -19,8 +19,9 @@ sections:
       title: News
       subtitle: ''
       text: |-
-        * 2026.06. Two EGSR [papers](publication/2026eventsvgf) accepted!
-        * 2025.05. I will be working at Aurora Innovation for summer internship, at Mountain View, CA!
+        * 2026.08. Two SIGGRAPH Asia accepted (TBA)!
+        * 2026.06. Two EGSR papers ([1](publication/2026eventsvgf), [2](publication/2026lcs)) accepted!
+        * 2026.05. I will be working at Aurora Innovation for summer internship, at Mountain View, CA!
         * 2026.05. One SIGGRAPH [paper](publication/2026tofrestir) accepted!
       # * 2025.06. I received [Neukom Research Prize](https://neukom.dartmouth.edu/research/neukom-research-prizes/2025-research-prize-winners) (2nd prize)
       # * 2025.06. Our [paper](publication/2025ohd) received [SIGGRAPH 🏆Honorable mention](https://blog.siggraph.org/2025/06/siggraph-2025-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/)!
@@ -85,6 +86,14 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Summer Intern
+          company: Aurora Innovation
+          company_url: ''
+          company_logo: aurora
+          location: Mountain View, California
+          date_start: '2026-06-22'
+          date_end: '2026-09-11'
+          description: Conducted research and development on lidar volume scattering.
         - title: Summer Intern
           company: Intel
           company_url: ''
