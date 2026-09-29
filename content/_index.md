@@ -19,10 +19,10 @@ sections:
       title: News
       subtitle: ''
       text: |-
-        * 2026.08. Two SIGGRAPH Asia papers (one [journal](publication/2026sdrtof), one [conference](publication/2026antithetic)) accepted!
-        * 2026.06. Two EGSR papers ([1](publication/2026eventsvgf), [2](publication/2026lcs)) accepted!
-        * 2026.05. I will be working at Aurora Innovation for summer internship, at Mountain View, CA!
-        * 2026.05. One SIGGRAPH [paper](publication/2026tofrestir) accepted!
+        * 2026.08. Two papers were accepted to SIGGRAPH Asia (one [journal paper](/publication/2026sdrtof/), one [conference paper](/publication/2026antithetic/))!
+        * 2026.06. Two papers were accepted to EGSR ([1](/publication/2026eventsvgf/), [2](/publication/2026lcs/))!
+        * 2026.05. I will join Aurora Innovation for a summer internship in Mountain View, CA!
+        * 2026.05. One [paper](/publication/2026tofrestir/) was accepted to SIGGRAPH!
       # * 2025.06. I received [Neukom Research Prize](https://neukom.dartmouth.edu/research/neukom-research-prizes/2025-research-prize-winners) (2nd prize)
       # * 2025.06. Our [paper](publication/2025ohd) received [SIGGRAPH 🏆Honorable mention](https://blog.siggraph.org/2025/06/siggraph-2025-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/)!
       # * 2025.05. One EGSR [paper](publication/2025wave) accepted!
@@ -61,7 +61,7 @@ sections:
           date_start: '2019-09-01'
           date_end: '2022-02-28'
           description: |2-
-              * Thesis : Fast and lightweight Path Guiding Algorithm on GPU
+              * Thesis: Fast and Lightweight Path Guiding Algorithm on GPU
         - title: BSc in College of Liberal Arts
           company: Seoul National University
           company_url: ''
@@ -70,8 +70,8 @@ sections:
           date_start: '2014-03-01'
           date_end: '2019-08-31'
           description: |2-
-            * Major in Electrical and Computer Engineering
-            * Thesis : Efficient Taxi Dispatch Strategy using Deep Reinforcement Learning
+            * Major: Electrical and Computer Engineering
+            * Thesis: Efficient Taxi Dispatch Strategy Using Deep Reinforcement Learning
     design:
       columns: '2'
   - block: experience
@@ -117,7 +117,7 @@ sections:
           location: Pangyo, South Korea
           date_start: '2018-12-01'
           date_end: '2019-03-01'
-          description: Worked on [taxi dispatch strategy using RL](projects/2021taxi).
+          description: Worked on a [taxi dispatch strategy using reinforcement learning](/publication/2021taxi/).
     design:
       columns: '2'
   - block: markdown
@@ -129,6 +129,7 @@ sections:
     design:
       columns: '1'
   - block: collection
+    id: featured
     content:
       title: Featured Publications
       filters:

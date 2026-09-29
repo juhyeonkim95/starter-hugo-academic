@@ -20,7 +20,7 @@ main:
     url: '#featured'
     weight: 20
   - name: Contact
-    url: '#contact'
+    url: 'mailto:juhyeon.kim.gr@dartmouth.edu'
     weight: 30
 
 # Link to a PDF of your resume/CV from the menu.

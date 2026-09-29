@@ -45,7 +45,7 @@
   {{ $anchor := $item.Params.image.focal_point | default "Smart" }}
   {{ with $resource }}
     {{ $image := . }}
-    {{ if not (in .MediaType "gif") }}
+    {{ if ne .MediaType.SubType "gif" }}
       {{ $image = .Resize "550x webp" }}
     {{ end }}
     <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="card-image hover-overlay">

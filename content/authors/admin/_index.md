@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD student of Computer Graphics
+role: PhD student in Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -22,11 +22,11 @@ organizations:
     url: https://web.cs.dartmouth.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interest includes physically based rendering, real-time rendering and neural rendering.
+bio: My research interests include physically based rendering, real-time rendering, and neural rendering.
 
 # Interests to show in About widget
 interests:
-  - Physically-based rendering
+  - Physically based rendering
   - Real-time rendering
   - Neural rendering
 
@@ -39,7 +39,7 @@ education:
     - course: MSc in Electrical and Computer Engineering
       institution: Seoul National University
       year: 2022
-    - course: BSc in College of Liberal Arts (major in electrical and computer engineering)
+    - course: BSc, College of Liberal Arts (major in Electrical and Computer Engineering)
       institution: Seoul National University
       year: 2019
 
@@ -74,7 +74,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/20260828_cv.pdf
+    link: /uploads/20260828_cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'juhyeon.kim.gr@dartmouth.edu'
@@ -83,10 +83,9 @@ email: 'juhyeon.kim.gr@dartmouth.edu'
 highlight_name: true
 ---
 
-<!-- # Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
-I am a fifth year computer science PhD student at Dartmouth College. 
-My research interest includes physically based rendering, real-time rendering and neural rendering.
-I received master's degree from Seoul National University [3D vision lab](http://3d.snu.ac.kr/). 
-I also received bachelor's degree from Seoul National University.
+I am a fifth-year PhD student in computer science at Dartmouth College.
+My research interests include physically based rendering, real-time rendering, and neural rendering.
+I received my master's degree from Seoul National University, where I worked in the [3D Vision Lab](http://3d.snu.ac.kr/).
+I also received my bachelor's degree from Seoul National University.
 
 {style="text-align: justify;"}

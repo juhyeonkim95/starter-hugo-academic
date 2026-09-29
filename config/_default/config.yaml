@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Juhyeon Kim # Website name
-baseURL: 'https://example.com/' # Website URL
+baseURL: 'https://juhyeonkim.netlify.app/' # Website URL; deployment commands can override this.
 
 ############################
 ## LANGUAGE

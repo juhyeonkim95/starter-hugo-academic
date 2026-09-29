@@ -25,5 +25,5 @@
     {{- end -}}
   {{- end -}}
   {{- $remainingAuthors := sub (len $authors) 20 }}
-  {{- if gt $remainingAuthors 0 }} <i>and {{ $remainingAuthors }} more{{ end }}</i>.
+  {{- if gt $remainingAuthors 0 }} <i>and {{ $remainingAuthors }} more</i>{{ end }}.
 {{- end -}}
