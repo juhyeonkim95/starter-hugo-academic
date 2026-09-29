@@ -19,7 +19,7 @@ sections:
       title: News
       subtitle: ''
       text: |-
-        * 2026.08. Two SIGGRAPH Asia papers (one journal, one conference) accepted (TBA)!
+        * 2026.08. Two SIGGRAPH Asia papers (one [journal](publication/2026sdrtof), one [conference](publication/2026antithetic)) accepted!
         * 2026.06. Two EGSR papers ([1](publication/2026eventsvgf), [2](publication/2026lcs)) accepted!
         * 2026.05. I will be working at Aurora Innovation for summer internship, at Mountain View, CA!
         * 2026.05. One SIGGRAPH [paper](publication/2026tofrestir) accepted!

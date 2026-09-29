@@ -1,16 +1,20 @@
 ---
-title: "ToF ReSTIR: Time-of-Flight Rendering with Spatio-temporal Reservoir Resampling"
+title: "SDR-ToF: Million Optical Depth Samples per Second Using Software-Defined Radio"
 authors:
+- Ramchander Bhaskara
+- Dhawal Sirikonda
+- Omkar Vengurlekar
 - admin
-- Wojciech Jarosz
+- Joseph Lazarro
+- Suren Jayasuriya
 - Adithya Pediredla
 
 author_notes:
-date: "2026-05-10T00:00:00Z"
-doi: ""
+date: "2026-09-29T00:00:00Z"
+doi: "10.1145/3842565"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-05-10T00:00:00Z"
+publishDate: "2026-09-29T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,7 +23,7 @@ publishDate: "2025-05-10T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*ACM Transactions on Graphics (SIGGRAPH 2026)*"
+publication: "*ACM Transactions on Graphics (SIGGRAPH Asia 2026)*"
 publication_short: ""
 
 # abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
@@ -29,16 +33,16 @@ publication_short: ""
 
 # tags:
 # - Source Themes
-featured: true
+featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://juhyeonkim95.github.io/project-pages/tof_restir/static/pdfs/ToF_ReSTIR_SIGGRAPH_2026.pdf'
-url_code: 'https://github.com/juhyeonkim95/FalcorComp'
+url_pdf: 'https://risclab-dartmouth.org/sdr-tof/'
+url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: 'https://juhyeonkim95.github.io/project-pages/tof_restir'
+url_project: 'https://risclab-dartmouth.org/sdr-tof/'
 url_slides: ''
 url_source: ''
 url_video: ''
