@@ -1,6 +1,6 @@
 ---
 title: "IBL-NeRF: Image-Based Lighting Formulation of Neural Radiance Fields"
-summary: "Separates indoor neural radiance fields into material, geometry, and spatially varying lighting components for scene editing."
+# summary: "Separates indoor neural radiance fields into material, geometry, and spatially varying lighting components for scene editing."
 authors:
 - Changwoon Choi
 - admin

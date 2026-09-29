@@ -1,6 +1,6 @@
 ---
 title: "SDR-ToF: Million Optical Depth Samples per Second Using Software-Defined Radio"
-summary: "Uses commodity software-defined radios to measure optical depth at megahertz rates with sub-millimeter sensitivity."
+# summary: "Uses commodity software-defined radios to measure optical depth at megahertz rates with sub-millimeter sensitivity."
 authors:
 - Ramchander Bhaskara
 - Dhawal Sirikonda

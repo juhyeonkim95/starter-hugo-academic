@@ -1,6 +1,6 @@
 ---
 title: "Doppler Time-of-Flight Rendering"
-summary: "Simulates Doppler time-of-flight cameras with correlated path sampling to reduce noise in dynamic scenes."
+# summary: "Simulates Doppler time-of-flight cameras with correlated path sampling to reduce noise in dynamic scenes."
 authors:
 - admin
 - Wojciech Jarosz

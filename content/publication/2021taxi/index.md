@@ -1,6 +1,6 @@
 ---
 title: "Optimizing Large-Scale Fleet Management on a Road Network using Multi-Agent Deep Reinforcement Learning with Graph Neural Network"
-summary: "Combines graph neural networks and multi-agent reinforcement learning to optimize taxi dispatch on road networks."
+# summary: "Combines graph neural networks and multi-agent reinforcement learning to optimize taxi dispatch on road networks."
 authors:
 - admin
 - Kihyun Kim

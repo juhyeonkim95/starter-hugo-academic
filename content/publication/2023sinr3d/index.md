@@ -1,6 +1,6 @@
 ---
 title: "Neural Volumetric Reconstruction for Coherent Synthetic Aperture Sonar"
-summary: "Reconstructs volumetric scenes from coherent synthetic aperture sonar measurements using a neural scene representation."
+# summary: "Reconstructs volumetric scenes from coherent synthetic aperture sonar measurements using a neural scene representation."
 authors:
 - Albert Reed
 - admin

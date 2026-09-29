@@ -1,6 +1,6 @@
 ---
 title: "Novel View Synthesis with Skip Connections"
-summary: "Combines skip connections with flow-based attention to preserve image detail when synthesizing new viewpoints."
+# summary: "Combines skip connections with flow-based attention to preserve image detail when synthesizing new viewpoints."
 authors:
 - admin
 - Young Min Kim
