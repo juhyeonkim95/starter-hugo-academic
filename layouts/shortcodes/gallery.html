@@ -13,6 +13,8 @@
         Sort images by title ascending (asc) or descending (desc).
     resize_options : default "750x750"
         Resize options passed to Hugo `.Fit` function (https://gohugo.io/content-management/image-processing/).
+    show_captions : default false
+        Display configured captions below images as well as in the lightbox.
 */}}
 
 {{/* For gallery nested in landing page sections */}}
@@ -49,9 +51,14 @@
     {{ $image_size = "gallery-item--large" }}
   {{end}}
   <div class="gallery-item {{$image_size}}">
+    <figure class="m-0">
     <a data-fancybox="gallery-{{$album}}" href="{{ .RelPermalink }}" {{ with $caption }}data-caption="{{.|markdownify|emojify|safeHTMLAttr}}"{{ end }}>
       <img src="{{ $image.RelPermalink }}" loading="lazy" alt="{{ plainify $caption | default $filename }}" width="{{ $image.Width }}" height="{{ $image.Height }}">
     </a>
+    {{ if and $caption (eq (printf "%v" ($.Get "show_captions")) "true") }}
+      <figcaption class="small mt-2">{{ $caption | markdownify | emojify }}</figcaption>
+    {{ end }}
+    </figure>
   </div>
   {{else}}
     {{ errorf "Unable to load gallery `%s` in `%s`." $album_path .Page.File.Filename }}

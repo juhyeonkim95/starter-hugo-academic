@@ -1,5 +1,6 @@
 ---
 title: "Efficient Time Sampling Strategy for Transient Absorption Spectroscopy"
+summary: "Chooses measurement times to improve lifetime estimation from noisy transient absorption signals."
 authors:
 - admin
 - Joshua Multhaup

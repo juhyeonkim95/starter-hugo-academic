@@ -1,5 +1,6 @@
 ---
 title: "Fast and Lightweight Path Guiding Algorithm on GPU"
+summary: "Learns light-sampling distributions directly on the GPU to reduce wasted paths in Monte Carlo rendering."
 authors:
 - admin
 - Young Min Kim

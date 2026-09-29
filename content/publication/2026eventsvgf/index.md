@@ -1,5 +1,6 @@
 ---
 title: "Difference-aware Filtering for Event Camera Simulation"
+summary: "Filters temporal brightness differences directly to produce stable event-camera simulations at just two samples per pixel."
 authors:
 - admin
 - Wojciech Jarosz

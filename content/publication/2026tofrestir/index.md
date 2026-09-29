@@ -1,5 +1,6 @@
 ---
 title: "ToF ReSTIR: Time-of-Flight Rendering with Spatio-temporal Reservoir Resampling"
+summary: "Reuses light paths across pixels and frames for interactive time-of-flight rendering and non-line-of-sight simulation."
 authors:
 - admin
 - Wojciech Jarosz

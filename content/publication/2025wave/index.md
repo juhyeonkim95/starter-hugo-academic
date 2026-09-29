@@ -1,10 +1,11 @@
 ---
 title: "A wave-optics BSDF for correlated scatterers"
+summary: "Models diffraction and interference from correlated scatterers to reproduce colorful corona effects in fabrics and condensation."
 authors:
 - Ruomai Yang
 - admin
-- Wojciech Jarosz
 - Adithya Pediredla
+- Wojciech Jarosz
 
 author_notes:
 date: "2025-06-15T00:00:00Z"

@@ -1,5 +1,6 @@
 ---
 title: "A Monte Carlo Rendering Framework for Simulating Optical Heterodyne Detection"
+summary: "Extends Monte Carlo rendering to simulate optical heterodyne measurements for lidar and velocimetry."
 authors:
 - admin
 - Craig Benko

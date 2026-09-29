@@ -1,5 +1,6 @@
 ---
 title: "Light-Cone Shell Queries for Scalable Time-Gated Rendering"
+summary: "Uses light-cone range queries to efficiently sample time-valid light paths in geometrically complex scenes."
 authors:
 - Jack Cui
 - admin

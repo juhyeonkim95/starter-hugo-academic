@@ -4,6 +4,14 @@ title:
 date: 2022-10-24
 type: landing
 
+gallery_item:
+  - album: render
+    image: Island.png
+    caption: 'Island: undergraduate game development club project.'
+  - album: render
+    image: 2022fall_rendering_competition.png
+    caption: 'Rendering course competition entry, Fall 2022.'
+
 sections:
   - block: about.avatar
     id: about
@@ -33,6 +41,27 @@ sections:
       # 2023.05. One SIGGRAPH paper accepted!
     design:
       columns: '2'
+  - block: collection
+    id: featured
+    content:
+      title: Featured Publications
+      filters:
+        folders:
+          - publication
+        featured_only: true
+    design:
+      columns: '2'
+      view: cardgif
+  - block: collection
+    content:
+      title: Publications
+      filters:
+        folders:
+          - publication
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: cardgif
   - block: experience
     content:
       title: Education
@@ -125,28 +154,8 @@ sections:
       title: Gallery
       subtitle: ''
       text: |-
-        {{< gallery album="render" >}}
+        {{< gallery album="render" show_captions="true" >}}
     design:
       columns: '1'
-  - block: collection
-    id: featured
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: cardgif
-  - block: collection
-    content:
-      title: Publications
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: cardgif
+
 ---

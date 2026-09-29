@@ -1,5 +1,6 @@
 ---
 title: "Geometric Antithetic Sampling for Rendering Spatiotemporally Modulated Light"
+summary: "Pairs geometrically related light paths to reduce rendering noise in time-of-flight and structured-light simulations."
 authors:
 - admin
 - Jack Cui
