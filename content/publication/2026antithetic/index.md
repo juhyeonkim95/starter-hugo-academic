@@ -36,11 +36,11 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: 'https://juhyeonkim95.github.io/project-pages/antithetic_modulation/'
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: ''
+url_project: 'https://juhyeonkim95.github.io/project-pages/antithetic_modulation/'
 url_slides: ''
 url_source: ''
 url_video: ''
