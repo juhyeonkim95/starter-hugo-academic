@@ -23,22 +23,26 @@ sections:
     design:
       columns: '2'
   - block: markdown
+    id: news
     content:
       title: News
       subtitle: ''
       text: |-
-        * 2026.08. Two papers were accepted to SIGGRAPH Asia (one [journal paper](/publication/2026sdrtof/), one [conference paper](/publication/2026antithetic/))!
+        {{< news >}}
+        * 2026.11. I released [FalcorComp](https://falcorcomp.readthedocs.io/en/latest/), a real-time path tracer for cameras used in computational imaging!
+        * 2026.08. Two papers were accepted to SIGGRAPH Asia ([1](/publication/2026antithetic/), [2](/publication/2026sdrtof/))!
         * 2026.06. Two papers were accepted to EGSR ([1](/publication/2026eventsvgf/), [2](/publication/2026lcs/))!
         * 2026.05. I will join Aurora Innovation for a summer internship in Mountain View, CA!
         * 2026.05. One [paper](/publication/2026tofrestir/) was accepted to SIGGRAPH!
-      # * 2025.06. I received [Neukom Research Prize](https://neukom.dartmouth.edu/research/neukom-research-prizes/2025-research-prize-winners) (2nd prize)
-      # * 2025.06. Our [paper](publication/2025ohd) received [SIGGRAPH 🏆Honorable mention](https://blog.siggraph.org/2025/06/siggraph-2025-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/)!
-      # * 2025.05. One EGSR [paper](publication/2025wave) accepted!
-      # * 2025.05. One SIGGRAPH [paper](publication/2025ohd) accepted!
-      # 2024.06. I will be working at Intel for summer internship!
-      # 2024.05. One ICCP [paper](publication/2024tas/index.md) accepted!
-      # 2023.11. One SIGGRAPH Asia [paper](publication/) accepted!
-      # 2023.05. One SIGGRAPH paper accepted!
+        * 2025.06. I received [Neukom Research Prize](https://neukom.dartmouth.edu/research/neukom-research-prizes/2025-research-prize-winners) (2nd prize)
+        * 2025.06. Our [paper](/publication/2025ohd/) received [SIGGRAPH 🏆Honorable mention](https://blog.siggraph.org/2025/06/siggraph-2025-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/)!
+        * 2025.05. One EGSR [paper](/publication/2025wave/) accepted!
+        * 2025.05. One SIGGRAPH [paper](/publication/2025ohd/) accepted!
+        * 2024.06. I will be working at Intel for summer internship!
+        * 2024.05. One ICCP [paper](/publication/2024tas/) accepted!
+        * 2023.11. One SIGGRAPH Asia [paper](/publication/) accepted!
+        * 2023.05. One SIGGRAPH paper accepted!
+        {{< /news >}}
     design:
       columns: '2'
   - block: collection
@@ -62,6 +66,19 @@ sections:
     design:
       columns: '2'
       view: cardgif
+  - block: markdown
+    id: software
+    content:
+      title: Software
+      subtitle: ''
+      text: |-
+        ### FalcorComp
+
+        A real-time path tracer for cameras used in computational imaging, built on NVIDIA Falcor. It supports time-of-flight, structured-light, Doppler, and event camera simulation.
+
+        [Documentation](https://falcorcomp.readthedocs.io/en/latest/) · [GitHub](https://github.com/juhyeonkim95/FalcorComp)
+    design:
+      columns: '2'
   - block: experience
     content:
       title: Education

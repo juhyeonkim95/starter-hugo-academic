@@ -74,7 +74,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: /uploads/20260828_cv.pdf
+    link: /uploads/20261111_cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'juhyeon.kim.gr@dartmouth.edu'
@@ -82,6 +82,8 @@ email: 'juhyeon.kim.gr@dartmouth.edu'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+
+**I am looking for a postdoctoral or research position in rendering.** Please [get in touch](mailto:juhyeon.kim.gr@dartmouth.edu) if you know of any opportunities!
 
 I am a fifth-year PhD student in computer science at Dartmouth College.
 My research interests include physically based rendering, real-time rendering, and neural rendering.

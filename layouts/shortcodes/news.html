@@ -1,0 +1,7 @@
+<div class="news-scroll"
+     role="region"
+     aria-label="News updates"
+     tabindex="0"
+     style="max-height: min(20rem, 60vh); overflow-y: auto; scrollbar-gutter: stable; padding: 0.25rem 1rem 0.25rem 0.25rem;">
+  {{ .Inner | markdownify | emojify }}
+</div>
