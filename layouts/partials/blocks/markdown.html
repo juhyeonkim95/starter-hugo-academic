@@ -1,0 +1,40 @@
+{{/* Markdown sections with optional scrolling or a logo beside the text. */}}
+{{ $block := .wcBlock }}
+{{ $columns := $block.design.columns | default "1" }}
+{{ $text := $block.content.text | emojify | markdownify }}
+
+<div class="col-12{{ if ne $columns "1" }} col-lg-8{{ end }}">
+  {{ if $block.design.scroll_height }}
+    <div class="news-scroll"
+         role="region"
+         aria-label="{{ $block.content.title }}"
+         tabindex="0"
+         style="max-height: {{ $block.design.scroll_height | safeCSS }}; overflow-y: auto; scrollbar-gutter: stable; padding: 0.25rem 1rem 0.25rem 0.25rem;">
+      {{ $text }}
+    </div>
+  {{ else if $block.content.logo }}
+    {{ $logo := resources.Get (printf "media/%s" $block.content.logo) }}
+    {{ if not $logo }}
+      {{ errorf "Software logo not found in assets/media/: %s" $block.content.logo }}
+    {{ end }}
+    {{ $logo = $logo.Fit "400x400 webp" }}
+    <div class="row align-items-center">
+      <div class="col-12 col-sm-4 mb-3 mb-sm-0">
+        <a href="{{ $block.content.logo_url }}">
+          <img src="{{ $logo.RelPermalink }}"
+               alt="{{ $block.content.logo_alt }}"
+               width="{{ $logo.Width }}"
+               height="{{ $logo.Height }}"
+               loading="lazy"
+               class="img-fluid rounded"
+               style="width: 100%; max-width: 200px; height: auto;">
+        </a>
+      </div>
+      <div class="col-12 col-sm-8">
+        {{ $text }}
+      </div>
+    </div>
+  {{ else }}
+    {{ $text }}
+  {{ end }}
+</div>

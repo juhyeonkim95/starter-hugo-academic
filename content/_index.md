@@ -28,7 +28,6 @@ sections:
       title: News
       subtitle: ''
       text: |-
-        {{< news >}}
         * 2026.11. I released [FalcorComp](https://falcorcomp.readthedocs.io/en/latest/), a real-time path tracer for cameras used in computational imaging!
         * 2026.08. Two papers were accepted to SIGGRAPH Asia ([1](/publication/2026antithetic/), [2](/publication/2026sdrtof/))!
         * 2026.06. Two papers were accepted to EGSR ([1](/publication/2026eventsvgf/), [2](/publication/2026lcs/))!
@@ -42,9 +41,9 @@ sections:
         * 2024.05. One ICCP [paper](/publication/2024tas/) accepted!
         * 2023.11. One SIGGRAPH Asia [paper](/publication/) accepted!
         * 2023.05. One SIGGRAPH paper accepted!
-        {{< /news >}}
     design:
       columns: '2'
+      scroll_height: 'min(12rem, 36vh)'
   - block: collection
     id: featured
     content:
@@ -71,6 +70,9 @@ sections:
     content:
       title: Software
       subtitle: ''
+      logo: falcorcomp-logo.png
+      logo_alt: FalcorComp logo
+      logo_url: https://falcorcomp.readthedocs.io/en/latest/
       text: |-
         ### FalcorComp
 

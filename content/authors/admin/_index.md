@@ -83,9 +83,9 @@ email: 'juhyeon.kim.gr@dartmouth.edu'
 highlight_name: true
 ---
 
-**I am looking for a postdoctoral or research position in rendering.** Please [get in touch](mailto:juhyeon.kim.gr@dartmouth.edu) if you know of any opportunities!
+**I am graduating in February 2027 and am looking for a postdoctoral or research position in rendering.** Please [get in touch](mailto:juhyeon.kim.gr@dartmouth.edu) if you know of any opportunities!
 
-I am a fifth-year PhD student in computer science at Dartmouth College.
+I am a fifth-year PhD student in computer science at Dartmouth College, working with [Prof. Adithya Pediredla](https://risclab-dartmouth.org/people/adithya-pediredla/) and [Prof. Wojciech Jarosz](https://cs.dartmouth.edu/~wjarosz/).
 My research interests include physically based rendering, real-time rendering, and neural rendering.
 I received my master's degree from Seoul National University, where I worked in the [3D Vision Lab](http://3d.snu.ac.kr/).
 I also received my bachelor's degree from Seoul National University.
